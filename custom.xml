@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+
+  <channel site="superguidatv.it" site_id="20/443" lang="it" xmltv_id="20.it">20</channel>
+  <channel site="superguidatv.it" site_id="italia-7-gold/310" lang="it" xmltv_id="7Gold.it">7 Gold</channel>
+  <channel site="epgshare01.online" site_id="IN4#9X.Jalwa.in" lang="en" xmltv_id="9XJalwa.in">9X Jalwa</channel>
+  <channel site="dishtv.in" site_id="90012" lang="en" xmltv_id="9XJhakaas.in">9X Jhakaas</channel>
+  <channel site="dishtv.in" site_id="142504" lang="en" xmltv_id="9XTashan.in">9X Tashan</channel>
+  <channel site="tataplay.com" site_id="139" lang="en" xmltv_id="9XM.in">9XM</channel>
+  <channel site="programetv.ro" site_id="acasa" lang="ro" xmltv_id="Acasa.ro">Acasa</channel>
+  <channel site="programetv.ro" site_id="amc" lang="ro" xmltv_id="AMC.ro">AMC</channel>
+  <channel site="programetv.ro" site_id="antena-1" lang="ro" xmltv_id="Antena1.ro">Antena 1</channel>
+  <channel site="programetv.ro" site_id="antena-3-cnn" lang="ro" xmltv_id="Antena3CNN.ro">Antena 3 CNN</channel>
+  <channel site="programetv.ro" site_id="antena-stars" lang="ro" xmltv_id="AntenaStars.ro">Antena Stars</channel>
+  <!-- Atomic Academy TV -->
+  <!-- Atomic TV -->
+  <channel site="programetv.ro" site_id="axn-black" lang="ro" xmltv_id="AXN.Black.ro">AXN Black</channel>
+  <channel site="programetv.ro" site_id="axn-white" lang="ro" xmltv_id="AXN.White.ro">AXN White</channel>
+  <channel site="programetv.ro" site_id="axn" lang="ro" xmltv_id="AXN.ro">AXN</channel>
+  <channel site="programetv.ro" site_id="b1-tv" lang="ro" xmltv_id="B1.ro">B1</channel>
+  <channel site="tataplay.com" site_id="9" lang="en" xmltv_id="B4UMusic.in">B4U Music</channel>
+  <channel site="tataplay.com" site_id="1503" lang="en" xmltv_id="BalleBalle.in">Balle Balle</channel>
+  <channel site="programetv.ro" site_id="bbc-earth" lang="ro" xmltv_id="BBC.Earth.ro">BBC Earth</channel>
+  <channel site="epgshare01.online" site_id="RO1#BBC.First.ro" lang="ro" xmltv_id="BBC.First.ro">BBC First</channel>
+  <channel site="superguidatv.it" site_id="boing/195" lang="it" xmltv_id="Boing.it">Boing</channel>
+<!-- ===== Bollywood Classic RO ===== -->
+  <channel site="programetv.ro" site_id="bollywood-classic" lang="ro" xmltv_id="BollywoodClassic.ro">Bollywood Classic</channel>
+  <channel site="programetv.ro" site_id="bollywood-hd" lang="ro" xmltv_id="BollywoodHD.ro">Bollywood HD</channel>
+  <channel site="superguidatv.it" site_id="canale-5/187" lang="it" xmltv_id="Canale5.it">Canale 5</channel>
+  <channel site="superguidatv.it" site_id="cartoonito/196" lang="it" xmltv_id="Cartoonito.it">Cartoonito IT</channel>
+  <channel site="epgshare01.online" site_id="RO1#Cartoonito.ro" lang="ro" xmltv_id="Cartoonito.ro">Cartoonito RO</channel>
+  <channel site="superguidatv.it" site_id="cielo/239" lang="it" xmltv_id="Cielo.it">Cielo</channel>
+  <channel site="superguidatv.it" site_id="cine34/574" lang="it" xmltv_id="Cine34.it">Cine34</channel>
+  <channel site="programetv.ro" site_id="cinemax-2-hd" lang="ro" xmltv_id="Cinemax.2.ro">Cinemax 2</channel>
+  <channel site="programetv.ro" site_id="cinemax-hd" lang="ro" xmltv_id="CineMAX.ro">Cinemax</channel>
+  <channel site="programetv.ro" site_id="comedy-central" lang="ro" xmltv_id="ComedyCentral.ro">Comedy Central</channel>
+<!-- ===== Comedy Play ===== -->
+  <channel site="superguidatv.it" site_id="deejay-tv/162" lang="it" xmltv_id="DeejayTV.it">Deejay TV</channel>
+  <channel site="programetv.ro" site_id="digi-24" lang="ro" xmltv_id="Digi24.ro">Digi 24</channel>
+  <channel site="epgshare01.online" site_id="IT1#Discovery.Channel.it" lang="it" xmltv_id="DiscoveryChannel.it">Discovery Channel IT</channel>
+  <channel site="programetv.ro" site_id="discovery-channel" lang="ro" xmltv_id="DiscoveryChannel.ro">Discovery Channel RO</channel>
+  <channel site="programetv.ro" site_id="id-investigation-discovery" lang="ro" xmltv_id="InvestigationDiscoveryEurope.us">Discovery Investigation ID</channel>
+  <channel site="superguidatv.it" site_id="dmax/256" lang="it" xmltv_id="DMAX.it">DMAX</channel>
+  <channel site="programetv.ro" site_id="epic-drama" lang="ro" xmltv_id="Epic.Drama.ro">Epic Drama</channel>
+  <channel site="programetv.ro" site_id="film-now" lang="ro" xmltv_id="FilmNow.ro">Film Now</channel>
+  <channel site="programetv.ro" site_id="filmbox" lang="ro" xmltv_id="Filmbox.ro">Filmbox</channel>
+  <channel site="programetv.ro" site_id="film-cafe" lang="ro" xmltv_id="FILM.CAFE.ro">FilmCafe</channel>
+  <channel site="superguidatv.it" site_id="focus/249" lang="it" xmltv_id="Focus.it">Focus</channel>
+  <channel site="superguidatv.it" site_id="foodnetwork/431" lang="it" xmltv_id="FoodNetwork.it">Food Network</channel>
+  <channel site="superguidatv.it" site_id="frisbee/246" lang="it" xmltv_id="Frisbee.it">Frisbee</channel>
+  <channel site="superguidatv.it" site_id="giallo/244" lang="it" xmltv_id="Giallo.it">Giallo</channel>
+  <channel site="programetv.ro" site_id="hbo" lang="ro" xmltv_id="HBO.ro">HBO</channel>
+  <channel site="programetv.ro" site_id="hbo-2" lang="ro" xmltv_id="HBO2.ro">HBO 2</channel>
+  <channel site="programetv.ro" site_id="hbo-3" lang="ro" xmltv_id="HBO3.ro">HBO 3</channel>
+<!-- ===== Hello Taste ===== -->
+  <channel site="superguidatv.it" site_id="hgtv-homegarden/575" lang="it" xmltv_id="HGTV.it">HGTV</channel>
+  <channel site="programetv.ro" site_id="history" lang="ro" xmltv_id="History.ro">History</channel>
+  <channel site="programetv.ro" site_id="hit-music-channel" lang="ro" xmltv_id="HtMusicChannel.ro">H!t Music Channel</channel>
+<!-- ===== Impact TV Dance ===== -->
+<!-- ===== Impact TV Manele ===== -->
+  <channel site="superguidatv.it" site_id="iris/192" lang="it" xmltv_id="Iris.it">Iris</channel>
+  <channel site="superguidatv.it" site_id="italia-1/188" lang="it" xmltv_id="Italia1.it">Italia 1</channel>
+  <channel site="superguidatv.it" site_id="italia-2/191" lang="it" xmltv_id="Italia2.it">Italia 2</channel>
+  <channel site="superguidatv.it" site_id="k2/245" lang="it" xmltv_id="K2.it">K2</channel>
+  <channel site="programetv.ro" site_id="kanal-d" lang="ro" xmltv_id="KanalD.ro">Kanal D</channel>
+  <channel site="epgshare01.online" site_id="RO1#Kanal.D2.ro" lang="ro" xmltv_id="KanalD2.ro">Kanal D2</channel>
+  <!-- Kiss Kiss TV -->
+  <channel site="programetv.ro" site_id="kiss-tv" lang="ro" xmltv_id="KissTV.ro">Kiss TV</channel>
+  <channel site="superguidatv.it" site_id="la-5/sky-intrattenimento/190" lang="it" xmltv_id="La5.it">La5</channel>
+  <channel site="superguidatv.it" site_id="la7-cinema/254" lang="it" xmltv_id="La7Cinema.it">La7 Cinema</channel>
+  <channel site="superguidatv.it" site_id="la7/253" lang="it" xmltv_id="LA7.it">LA7</channel>
+  <!-- m2o TV -->
+  <channel site="programetv.ro" site_id="magic-tv" lang="ro" xmltv_id="MagicTV.ro">Magic TV</channel>
+  <channel site="superguidatv.it" site_id="mediaset-extra/194" lang="it" xmltv_id="MediasetExtra.it">Mediaset Extra</channel>
+  <channel site="programetv.ro" site_id="minimax" lang="ro" xmltv_id="Minimax.ro">Minimax</channel>
+  <channel site="programetv.ro" site_id="mooz-dance" lang="ro" xmltv_id="MoozDance.ro">Mooz Dance</channel>
+  <channel site="programetv.ro" site_id="mooz-hits" lang="ro" xmltv_id="MoozHits.ro">Mooz Hits</channel>
+  <channel site="programetv.ro" site_id="mooz-ro" lang="ro" xmltv_id="MoozRo.ro">Mooz Ro!</channel>
+  <channel site="epgshare01.online" site_id="IT1#Motor.Trend.it" lang="it" xmltv_id="MotorTrend.it">Motor Trend</channel>
+  <channel site="dishtv.in" site_id="143563" lang="en" xmltv_id="MusicIndia.in">Music India</channel>
+  <channel site="programetv.ro" site_id="nasul-tv" lang="ro" xmltv_id="NasulTV.ro">Nasul TV</channel>
+  <channel site="epgshare01.online" site_id="RO1#National.Geographic.Wild.ro" lang="ro" xmltv_id="NationalGeographicWild.ro">National Geographic Wild</channel>
+  <channel site="epgshare01.online" site_id="RO1#National.Geographic.ro" lang="ro" xmltv_id="NationalGeographic.ro">National Geographic</channel>
+  <channel site="superguidatv.it" site_id="nove/238" lang="it" xmltv_id="Nove.it">Nove</channel>
+  <channel site="programetv.ro" site_id="pro-arena" lang="ro" xmltv_id="ProArena.ro">Pro Arena</channel>
+  <channel site="programetv.ro" site_id="pro-cinema" lang="ro" xmltv_id="ProCinema.ro">Pro Cinema</channel>
+  <channel site="programetv.ro" site_id="pro-tv" lang="ro" xmltv_id="PROTV.ro">PRO TV</channel>
+<!-- ===== PROFI 24 TV ===== -->
+  <channel site="tataplay.com" site_id="92" lang="en" xmltv_id="PTCChakde.in">PTC Chakde</channel>
+  <channel site="tataplay.com" site_id="922" lang="en" xmltv_id="PTCMusic.in">PTC Music</channel>
+  <channel site="tataplay.com" site_id="424" lang="en" xmltv_id="PublicMusic.in">Public Music</channel>
+  <channel site="tataplay.com" site_id="1663" lang="en" xmltv_id="PunjabiHits.in">Punjabi Hits</channel>
+  <channel site="superguidatv.it" site_id="r101/463" lang="it" xmltv_id="R101TV.it">R101 TV</channel>
+  <channel site="superguidatv.it" site_id="radio-105/460" lang="it" xmltv_id="Radio105TV.it">Radio 105 TV</channel>
+  <channel site="superguidatv.it" site_id="radio-italia-tv/165" lang="it" xmltv_id="RadioItaliaTV.it">Radio Italia TV</channel>
+  <channel site="superguidatv.it" site_id="radio-monte-carlo/462" lang="it" xmltv_id="RadioMonteCarloTV.it">Radio Monte Carlo TV</channel>
+  <channel site="epgshare01.online" site_id="IT1#RADIONORBA.TV.it" lang="it" xmltv_id="RadioNorbaTV.it">Radio Norba TV</channel>
+<!-- ===== Radio Zeta ===== -->
+  <channel site="epgshare01.online" site_id="IT1#RADIOFRECCIA.HD.it" lang="it" xmltv_id="Radiofreccia.it">Radiofreccia</channel>
+  <channel site="superguidatv.it" site_id="rai-1/217" lang="it" xmltv_id="Rai1.it">Rai 1</channel>
+  <channel site="superguidatv.it" site_id="rai-2/218" lang="it" xmltv_id="Rai2.it">Rai 2</channel>
+  <channel site="superguidatv.it" site_id="rai-3/219" lang="it" xmltv_id="Rai3.it">Rai 3</channel>
+  <channel site="superguidatv.it" site_id="rai-4/220" lang="it" xmltv_id="Rai4.it">Rai 4</channel>
+  <channel site="superguidatv.it" site_id="rai-5/221" lang="it" xmltv_id="Rai5.it">Rai 5</channel>
+  <channel site="superguidatv.it" site_id="rai-gulp/228" lang="it" xmltv_id="RaiGulp.it">Rai Gulp</channel>
+  <channel site="superguidatv.it" site_id="rai-movie/229" lang="it" xmltv_id="RaiMovie.it">Rai Movie</channel>
+  <channel site="superguidatv.it" site_id="rainews24/222" lang="it" xmltv_id="RaiNews24.it">Rai News 24</channel>
+  <channel site="superguidatv.it" site_id="rai-premium/225" lang="it" xmltv_id="RaiPremium.it">Rai Premium</channel>
+  <channel site="superguidatv.it" site_id="rai-scuola/230" lang="it" xmltv_id="RaiScuola.it">Rai Scuola</channel>
+  <channel site="superguidatv.it" site_id="rai-storia/226" lang="it" xmltv_id="RaiStoria.it">Rai Storia</channel>
+  <channel site="superguidatv.it" site_id="rai-yoyo/227" lang="it" xmltv_id="RaiYoyo.it">Rai Yoyo</channel>
+  <!-- RDS Social TV -->
+  <channel site="superguidatv.it" site_id="real-time/255" lang="it" xmltv_id="RealTime.it">Real Time</channel>
+  <channel site="superguidatv.it" site_id="rete-4/189" lang="it" xmltv_id="Rete4.it">Rete 4</channel>
+  <channel site="programetv.ro" site_id="romania-tv" lang="ro" xmltv_id="RomaniaTV.ro">Romania TV</channel>
+  <channel site="superguidatv.it" site_id="rtl-1025-tv/243" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5 TV</channel>
+  <channel site="tataplay.com" site_id="1284" lang="en" xmltv_id="SanaPlus.in">Sana Plus</channel>
+  <channel site="dishtv.in" site_id="143757" lang="en" xmltv_id="SangeetBhojpuri.in">Sangeet Bhojpuri</channel>
+  <channel site="tataplay.com" site_id="217" lang="en" xmltv_id="SangeetMarathi.in">Sangeet Marathi</channel>
+  <channel site="tataplay.com" site_id="733" lang="en" xmltv_id="ShowBox.in">ShowBox</channel>
+  <channel site="superguidatv.it" site_id="sky-tg24/240" lang="it" xmltv_id="SkyTG24.it">Sky TG24</channel>
+<!--  Steelbird Music -->
+  <!-- Super SIX -->
+  <channel site="superguidatv.it" site_id="super/247" lang="it" xmltv_id="Super.it">Super!</channel>
+  <channel site="tataplay.com" site_id="1670" lang="en" xmltv_id="TabbarHits.in">Tabbar Hits</channel>
+<!-- ===== Tele7music ===== -->
+  <channel site="superguidatv.it" site_id="tgcom24/197" lang="it" xmltv_id="TGCom24.it">TGCom24</channel>
+  <channel site="programetv.ro" site_id="tlc" lang="ro" xmltv_id="TLC.ro">TLC</channel>
+  <channel site="superguidatv.it" site_id="top-crime/193" lang="it" xmltv_id="TopCrime.it">Top Crime</channel>
+  <channel site="superguidatv.it" site_id="tv8/237" lang="it" xmltv_id="TV8.it">TV8</channel>
+  <channel site="programetv.ro" site_id="tvr-1" lang="ro" xmltv_id="TVR1.ro">TVR 1</channel>
+  <channel site="programetv.ro" site_id="tvr-2" lang="ro" xmltv_id="TVR2.ro">TVR 2</channel>
+  <channel site="programetv.ro" site_id="tvr-3" lang="ro" xmltv_id="TVR3.ro">TVR 3</channel>
+  <channel site="superguidatv.it" site_id="twenty-seven/601" lang="it" xmltv_id="Twentyseven.it">Twentyseven</channel>
+  <channel site="programetv.ro" site_id="utv" lang="ro" xmltv_id="UTV.ro">UTV</channel>
+  <channel site="programetv.ro" site_id="viasat-explore" lang="ro" xmltv_id="Viasat.Explore.ro">Viasat Explore</channel>
+  <channel site="programetv.ro" site_id="viasat-history" lang="ro" xmltv_id="Viasat.History.ro">Viasat History</channel>
+  <channel site="programetv.ro" site_id="viasat-nature" lang="ro" xmltv_id="Viasat.Nature.ro">Viasat Nature</channel>
+  <channel site="superguidatv.it" site_id="virgin-radio/461" lang="it" xmltv_id="VirginRadioTV.it">Virgin Radio TV</channel>
+  <channel site="tataplay.com" site_id="96" lang="en" xmltv_id="Zoom.in">Zoom</channel>
+  <channel site="programetv.ro" site_id="zu-tv" lang="ro" xmltv_id="ZUTV.ro">ZU TV</channel>
+
+
+</channels>
